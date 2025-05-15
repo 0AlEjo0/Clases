@@ -1,6 +1,9 @@
-docker file backend
-docker file frontend
-docker compose: 
-  -backend
-  -frontend
-  -bd
+(subir a docker hub)
+  docker file backend
+  docker file frontend
+
+tres servicios:
+  docker compose (despliegue) : 
+    -backend
+    -frontend
+    -bd
